@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">NaoTuring</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="xunfei_appid">4f94bf13</string>
+    <!-- 语言 -->
+    <string-array name="language_entries">
+        <item>普通话</item>
+        <item>粤语</item>
+        <item>河南话</item>
+        <item>英语</item>
+    </string-array>
+    <string-array name="language_values">
+        <item>mandarin</item>
+        <item>cantonese</item>
+        <item>henanese</item>
+        <item>en_us</item>
+    </string-array>
+    <string-array name="stream_entries">
+        <item>通话</item>
+        <item>系统</item>
+        <item>铃声</item>
+        <item>音乐</item>
+        <item>闹铃</item>
+        <item>通知</item>
+    </string-array>
+    <string-array name="stream_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="recognize_error_tips">
+        <item>我叫智娃，你叫什么名字啊？</item>
+        <item>我三岁了，你多大了呀？</item>
+        <item>我是女孩，你是男孩女孩啊？</item>
+        <item>我的家在上地，你家在哪里啊？</item>
+        <item>我喜欢红色，你喜欢什么颜色啊？</item>
+        <item>我喜欢芭比娃娃，你喜欢什么玩具呢？</item>
+        <item>我爸爸是工程师，你爸爸是做什么的呀？</item>
+        <item>我会唱歌、讲故事，你都会什么呀？</item>
+        <item>我今天很高兴，你能陪我聊聊天么？</item>
+        <item>你快点说话好不好？我好想跟你聊天的</item>
+    </string-array>
+    <string name="tip_volume_toosmall">没听清，再说一遍吧</string>
+    <string name="tip_recognize_error_nettimeout">联网出现问题了，请检查网络</string>
+    <string name="tip_recognize_error_engine">版本出现问题了</string>
+    <string name="tip_net_disconnet">没网了，请抚摸我的额头,使用配置软件发送网络名称和密码</string>
+    <string name="tip_nodata_exit">不和我说话我走了啊，说智娃即可唤醒我</string>
+</resources>
